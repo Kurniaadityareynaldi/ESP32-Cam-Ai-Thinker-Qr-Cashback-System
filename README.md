@@ -128,9 +128,9 @@ You may use, modify, and distribute the software according to the terms of the M
 
 **Kurnia Aditya Reynaldi**
 
-Electrical Engineer
+Electrical Engineer | Embedded Systems | Control Systems | Electronics R&D
 
-ESP32 / Embedded System / Electronic Control / IoT
+Contributions, issues, and pull requests are welcome.
 
 ---
 
